@@ -1,6 +1,6 @@
 ### Hi I'm Jorge 👋
 
-- :ear: Helping people to improve their hearing at [Jacoti](https://jacoti.com/)
+- 💅 Promoting personal well-being worldwide [Treatwell](https://treatwell.com/)
 - :eyes: Check my CV here: [Manfred](https://www.getmanfred.com/profile/jorge) & [LinkedIn](https://www.linkedin.com/in/jorge-garrido-oval-3965b214/)
 - :earth_africa: Working remotely from Spain
 - 🌱 I’m currently learning Unity and KMP
